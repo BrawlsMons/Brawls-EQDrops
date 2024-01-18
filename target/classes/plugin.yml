@@ -1,0 +1,5 @@
+name: BrawlsEQDrops
+version: '0.1-SNAPSHOT'
+main: pl.brawlsmons.brawlseqdrops.BrawlsEQDrops
+api-version: '1.20'
+description: BrawlsEQDrops is dedicated to managing dropped items after the player dies. After a player dies, the plugin randomly selects a certain percentage of items from the player's inventory to drop.
